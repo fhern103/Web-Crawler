@@ -1,0 +1,15 @@
+{
+  "name": "web-crawler",
+  "version": "1.0.0",
+  "description": "Creates a report of the internal linking structure of any website.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "author": "Fidel Hernandez",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
